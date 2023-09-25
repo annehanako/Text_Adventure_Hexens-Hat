@@ -1,0 +1,30 @@
+public class Itens {
+    boolean hasHat = false;
+    boolean hasAncestorSkull = false;
+    boolean hasCentipede = false;
+    boolean hasCandle = false;
+    boolean hasFlask = false;
+    boolean hasFilledFlask = false;
+    boolean hasSkeletalHand = false;
+    boolean hasPurifiedRiver = false;
+    boolean westOpen = false;
+    boolean parasiteKilled = false;
+    boolean sawWillow = false;
+    boolean openTower = false;
+    boolean sawMemories = false;
+}
+public class Itens {
+    boolean hasHat = false;
+    boolean hasAncestorSkull = false;
+    boolean hasCentipede = false;
+    boolean hasCandle = false;
+    boolean hasFlask = false;
+    boolean hasFilledFlask = false;
+    boolean hasSkeletalHand = false;
+    boolean hasPurifiedRiver = false;
+    boolean westOpen = false;
+    boolean parasiteKilled = false;
+    boolean sawWillow = false;
+    boolean openTower = false;
+    boolean sawMemories = false;
+}
